@@ -1,0 +1,15 @@
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\bin\Debug\net6.0\Taller 5%.exe
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\bin\Debug\net6.0\Taller 5%.deps.json
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\bin\Debug\net6.0\Taller 5%.runtimeconfig.json
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\bin\Debug\net6.0\Taller 5%.dll
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\bin\Debug\net6.0\Taller 5%.pdb
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\obj\Debug\net6.0\Taller 5%.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\obj\Debug\net6.0\Taller 5%.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\obj\Debug\net6.0\Taller 5%.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\obj\Debug\net6.0\Taller 5%.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\obj\Debug\net6.0\Taller 5%.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\obj\Debug\net6.0\Taller 5%.dll
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\obj\Debug\net6.0\refint\Taller 5%.dll
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\obj\Debug\net6.0\Taller 5%.pdb
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\obj\Debug\net6.0\Taller 5%.genruntimeconfig.cache
+C:\Users\Sebastian\Desktop\Taller 10 Noviembre\Taller 5%\obj\Debug\net6.0\ref\Taller 5%.dll
